@@ -35,7 +35,7 @@ import qianglei.test.service.MemberRegistration;
 public class MemberController {
 
     @Inject
-    private FacesContext facesContext;
+    private FacesContext facesContext_edit;
 
     @Inject
     private MemberRegistration memberRegistration;
